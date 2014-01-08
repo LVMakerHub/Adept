@@ -19,7 +19,7 @@ bool DllMain(HINSTANCE hinstDLL, DWORD fdwReason, LPVOID lpReserved )
          // Do thread-specific cleanup.
             break;
 
-        case DLL_PROCESS_DETACH:
+        case DLL_PROCESS_DETACH: 
          // Perform any necessary cleanup.
             break;
     }
