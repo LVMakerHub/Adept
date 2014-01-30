@@ -13,6 +13,12 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="include">
+      <UniqueIdentifier>{31efd266-7fa8-47fd-8846-d28784d3b0a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lib">
+      <UniqueIdentifier>{028be320-4579-476f-b03c-9ab1966c7844}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="lvhadept.cpp">
@@ -23,5 +29,97 @@
     <ClInclude Include="lvhadept.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="include\daci.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\daio.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\demc.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\depp.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\dgio.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\djtg.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\dmgr.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\dmgt.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\dpcdecl.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\dpcdefs.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\dpcutil.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\dpio.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\dspi.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\dstm.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\dtwi.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="lib\dabs.lib">
+      <Filter>lib</Filter>
+    </Library>
+    <Library Include="lib\daci.lib">
+      <Filter>lib</Filter>
+    </Library>
+    <Library Include="lib\daio.lib">
+      <Filter>lib</Filter>
+    </Library>
+    <Library Include="lib\demc.lib">
+      <Filter>lib</Filter>
+    </Library>
+    <Library Include="lib\depp.lib">
+      <Filter>lib</Filter>
+    </Library>
+    <Library Include="lib\dgio.lib">
+      <Filter>lib</Filter>
+    </Library>
+    <Library Include="lib\djtg.lib">
+      <Filter>lib</Filter>
+    </Library>
+    <Library Include="lib\dmgr.lib">
+      <Filter>lib</Filter>
+    </Library>
+    <Library Include="lib\dmgt.lib">
+      <Filter>lib</Filter>
+    </Library>
+    <Library Include="lib\dpcomm.lib">
+      <Filter>lib</Filter>
+    </Library>
+    <Library Include="lib\dpcutil.lib">
+      <Filter>lib</Filter>
+    </Library>
+    <Library Include="lib\dpio.lib">
+      <Filter>lib</Filter>
+    </Library>
+    <Library Include="lib\dspi.lib">
+      <Filter>lib</Filter>
+    </Library>
+    <Library Include="lib\dstm.lib">
+      <Filter>lib</Filter>
+    </Library>
+    <Library Include="lib\dtwi.lib">
+      <Filter>lib</Filter>
+    </Library>
   </ItemGroup>
 </Project>

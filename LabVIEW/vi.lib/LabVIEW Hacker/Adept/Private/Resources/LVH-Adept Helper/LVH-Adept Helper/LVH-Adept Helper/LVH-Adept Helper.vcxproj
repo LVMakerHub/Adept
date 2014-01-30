@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
       <Configuration>Debug</Configuration>
@@ -19,13 +19,13 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
     <ConfigurationType>DynamicLibrary</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v110</PlatformToolset>
+    <PlatformToolset>v120</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
     <ConfigurationType>DynamicLibrary</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v110</PlatformToolset>
+    <PlatformToolset>v120</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
@@ -82,7 +82,39 @@
     <ClCompile Include="lvhadept.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="include\daci.h" />
+    <ClInclude Include="include\daio.h" />
+    <ClInclude Include="include\demc.h" />
+    <ClInclude Include="include\depp.h" />
+    <ClInclude Include="include\dgio.h" />
+    <ClInclude Include="include\djtg.h" />
+    <ClInclude Include="include\dmgr.h" />
+    <ClInclude Include="include\dmgt.h" />
+    <ClInclude Include="include\dpcdecl.h" />
+    <ClInclude Include="include\dpcdefs.h" />
+    <ClInclude Include="include\dpcutil.h" />
+    <ClInclude Include="include\dpio.h" />
+    <ClInclude Include="include\dspi.h" />
+    <ClInclude Include="include\dstm.h" />
+    <ClInclude Include="include\dtwi.h" />
     <ClInclude Include="lvhadept.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="lib\dabs.lib" />
+    <Library Include="lib\daci.lib" />
+    <Library Include="lib\daio.lib" />
+    <Library Include="lib\demc.lib" />
+    <Library Include="lib\depp.lib" />
+    <Library Include="lib\dgio.lib" />
+    <Library Include="lib\djtg.lib" />
+    <Library Include="lib\dmgr.lib" />
+    <Library Include="lib\dmgt.lib" />
+    <Library Include="lib\dpcomm.lib" />
+    <Library Include="lib\dpcutil.lib" />
+    <Library Include="lib\dpio.lib" />
+    <Library Include="lib\dspi.lib" />
+    <Library Include="lib\dstm.lib" />
+    <Library Include="lib\dtwi.lib" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

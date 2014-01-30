@@ -12,8 +12,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "dpcdecl.h"
-#include "dmgr.h"
+#include "include/dpcdecl.h"
+#include "include/dmgr.h"
 
 
 EXPORT char*  getDeviceName(int devIndex);
