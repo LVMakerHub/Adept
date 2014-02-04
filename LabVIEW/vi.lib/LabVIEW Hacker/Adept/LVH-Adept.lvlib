@@ -6,6 +6,9 @@
 
 </Property>
 	<Item Name="Private" Type="Folder">
+		<Item Name="DJTG" Type="Folder">
+			<Item Name="DJTG.lvlib" Type="Library" URL="../Private/DJTG/DJTG.lvlib"/>
+		</Item>
 		<Item Name="DMGR" Type="Folder">
 			<Item Name="DMGR.lvlib" Type="Library" URL="../Private/DMGR/DMGR.lvlib"/>
 		</Item>
@@ -15,13 +18,20 @@
 		<Item Name="Resources" Type="Folder"/>
 		<Item Name="Type Defs" Type="Folder">
 			<Item Name="DVC.ctl" Type="VI" URL="../Private/Type Defs/DVC.ctl"/>
-			<Item Name="Error Type.ctl" Type="VI" URL="../Private/Type Defs/Error Type.ctl"/>
 		</Item>
-		<Item Name="Utilities" Type="Folder">
-			<Item Name="Generate Error.vi" Type="VI" URL="../Private/Utilities/Generate Error.vi"/>
-		</Item>
+		<Item Name="Utilities" Type="Folder"/>
 	</Item>
 	<Item Name="Test Apps" Type="Folder">
-		<Item Name="Enum Devs.vi" Type="VI" URL="../Test Apps/Enum Devs.vi"/>
+		<Item Name="DJTG" Type="Folder">
+			<Item Name="Get JTAG ID Code.vi" Type="VI" URL="../Test Apps/DJTG/Get JTAG ID Code.vi"/>
+			<Item Name="Get Port Properties.vi" Type="VI" URL="../Test Apps/DJTG/Get Port Properties.vi"/>
+			<Item Name="Get Set Speed.vi" Type="VI" URL="../Test Apps/DJTG/Get Set Speed.vi"/>
+			<Item Name="JTAG Test App.vi" Type="VI" URL="../Test Apps/DJTG/JTAG Test App.vi"/>
+			<Item Name="Reset Device.vi" Type="VI" URL="../Test Apps/DJTG/Reset Device.vi"/>
+		</Item>
+		<Item Name="DMGR" Type="Folder">
+			<Item Name="Get Dev Info.vi" Type="VI" URL="../Test Apps/DMGR/Get Dev Info.vi"/>
+			<Item Name="Open Close Device.vi" Type="VI" URL="../Test Apps/DMGR/Open Close Device.vi"/>
+		</Item>
 	</Item>
 </Library>

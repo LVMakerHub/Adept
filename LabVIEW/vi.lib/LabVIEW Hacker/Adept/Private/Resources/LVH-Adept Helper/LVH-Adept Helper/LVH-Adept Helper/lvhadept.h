@@ -17,3 +17,4 @@
 
 
 EXPORT char*  getDeviceName(int devIndex);
+EXPORT DVC*  getDeviceHandle();

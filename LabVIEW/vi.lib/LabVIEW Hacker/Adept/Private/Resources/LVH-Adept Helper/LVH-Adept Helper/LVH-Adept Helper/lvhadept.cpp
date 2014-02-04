@@ -26,6 +26,11 @@ bool DllMain(HINSTANCE hinstDLL, DWORD fdwReason, LPVOID lpReserved )
     return TRUE;  // Successful DLL_PROCESS_ATTACH.
 }
 
+DVC* getDeviceHandle()
+{
+	return &deviceHandle;
+}
+
 char* getDeviceName(int devIndex)
 {
 	if (DmgrGetDvc(devIndex, &deviceHandle))

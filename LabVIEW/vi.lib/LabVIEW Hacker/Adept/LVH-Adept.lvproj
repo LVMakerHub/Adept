@@ -17,9 +17,11 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
+			<Item Name="djtg.dll" Type="Document" URL="../Private/Resources/djtg.dll"/>
 			<Item Name="dmgr.dll" Type="Document" URL="../Private/Resources/dmgr.dll"/>
 			<Item Name="dpcutil.dll" Type="Document" URL="../Private/Resources/dpcutil.dll"/>
 			<Item Name="LVH-Adept Helper.dll" Type="Document" URL="../Private/Resources/LVH-Adept Helper/LVH-Adept Helper/Debug/LVH-Adept Helper.dll"/>
+			<Item Name="lvimptsl.dll" Type="Document" URL="../../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2011/resource/lvimptsl.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
