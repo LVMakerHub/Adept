@@ -16,11 +16,11 @@
 		</Item>
 	</Item>
 	<Item Name="Public" Type="Folder">
+		<Item Name="Allocate Device Handle.vi" Type="VI" URL="../Public/Allocate Device Handle.vi"/>
 		<Item Name="DmgrClose.vi" Type="VI" URL="../Public/DmgrClose.vi"/>
 		<Item Name="DmgrEnumDevices.vi" Type="VI" URL="../Public/DmgrEnumDevices.vi"/>
 		<Item Name="DmgrFreeDvcEnum.vi" Type="VI" URL="../Public/DmgrFreeDvcEnum.vi"/>
 		<Item Name="DmgrGetDvc.vi" Type="VI" URL="../Public/DmgrGetDvc.vi"/>
 		<Item Name="DmgrOpen.vi" Type="VI" URL="../Public/DmgrOpen.vi"/>
-		<Item Name="Get Device Handle.vi" Type="VI" URL="../Public/Get Device Handle.vi"/>
 	</Item>
 </Library>
