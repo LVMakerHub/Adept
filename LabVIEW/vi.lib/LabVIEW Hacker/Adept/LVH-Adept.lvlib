@@ -8,7 +8,6 @@
 	<Item Name="Examples" Type="Folder">
 		<Item Name="Load Bitfile.vi" Type="VI" URL="../../../../examples/LabVIEW Hacker/Adept/Load Bitfile.vi"/>
 		<Item Name="Read JTAG Scan Chain IDCODEs.vi" Type="VI" URL="../../../../examples/LabVIEW Hacker/Adept/Read JTAG Scan Chain IDCODEs.vi"/>
-		<Item Name="Untitled 15.vi" Type="VI" URL="../../../../examples/LabVIEW Hacker/Adept/Untitled 15.vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Item Name="DEPP" Type="Folder">
@@ -31,8 +30,11 @@
 			<Item Name="Adept Device Ctl.xctl" Type="XControl" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Private/Type Defs/Adept Device Ctl.xctl"/>
 			<Item Name="Device Config.ctl" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Private/Type Defs/Device Config.ctl"/>
 			<Item Name="DVC.ctl" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Private/Type Defs/DVC.ctl"/>
+			<Item Name="Status.ctl" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Private/Type Defs/Status.ctl"/>
 		</Item>
-		<Item Name="Utilities" Type="Folder"/>
+		<Item Name="Utilities" Type="Folder">
+			<Item Name="DEPP Smart Enable.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Private/Utilities/DEPP Smart Enable.vi"/>
+		</Item>
 	</Item>
 	<Item Name="Public" Type="Folder">
 		<Item Name="Utilities" Type="Folder">
@@ -42,8 +44,14 @@
 		</Item>
 		<Item Name="Close.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Public/Close.vi"/>
 		<Item Name="Open.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Public/Open.vi"/>
-		<Item Name="Read Register.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Public/Read Register.vi"/>
-		<Item Name="Write Register.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Public/Write Register.vi"/>
+		<Item Name="Read 1 Register.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Public/Read 1 Register.vi"/>
+		<Item Name="Read N Registers.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Public/Read N Registers.vi"/>
+		<Item Name="Read.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Public/Read.vi"/>
+		<Item Name="Stream From Register.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Public/Stream From Register.vi"/>
+		<Item Name="Stream To Register.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Public/Stream To Register.vi"/>
+		<Item Name="Write 1 Register.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Public/Write 1 Register.vi"/>
+		<Item Name="Write N Registers.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Public/Write N Registers.vi"/>
+		<Item Name="Write.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Public/Write.vi"/>
 	</Item>
 	<Item Name="Test Apps" Type="Folder">
 		<Item Name="DEPP" Type="Folder">
