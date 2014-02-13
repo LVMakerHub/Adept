@@ -5,78 +5,80 @@
 	<Property Name="NI_IconEditor" Type="Str">49 49 48 49 56 48 49 51 13 0 0 0 0 1 23 21 76 111 97 100 32 38 32 85 110 108 111 97 100 46 108 118 99 108 97 115 115 0 0 1 0 0 0 0 0 9 0 0 12 244 1 100 1 100 80 84 72 48 0 0 0 14 0 1 0 1 9 65 100 101 112 116 46 112 110 103 0 0 12 158 0 40 0 0 12 152 0 0 12 0 0 0 0 0 0 32 0 32 0 24 0 0 0 0 0 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 226 226 226 226 226 226 0 0 0 0 0 0 213 213 213 213 213 213 213 213 213 0 0 0 0 0 0 213 213 213 213 213 213 213 213 213 0 0 0 213 213 213 213 213 213 213 213 213 0 0 0 0 0 0 213 213 213 213 213 213 213 213 213 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 226 226 226 226 226 226 0 0 0 0 0 0 213 213 213 0 0 0 0 0 0 213 213 213 0 0 0 213 213 213 0 0 0 0 0 0 0 0 0 213 213 213 0 0 0 0 0 0 213 213 213 0 0 0 0 0 0 213 213 213 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 226 226 226 0 0 0 0 0 0 213 213 213 0 0 0 213 213 213 0 0 0 0 0 0 213 213 213 0 0 0 213 213 213 213 213 213 0 0 0 0 0 0 213 213 213 213 213 213 213 213 213 0 0 0 0 0 0 0 0 0 213 213 213 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 226 226 226 213 213 213 213 213 213 213 213 213 0 0 0 213 213 213 0 0 0 0 0 0 213 213 213 0 0 0 213 213 213 0 0 0 0 0 0 0 0 0 213 213 213 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 213 213 213 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 226 226 226 0 0 0 0 0 0 213 213 213 0 0 0 213 213 213 213 213 213 213 213 213 0 0 0 0 0 0 213 213 213 213 213 213 213 213 213 0 0 0 213 213 213 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 213 213 213 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 0 0 0 0 0 0 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 0 0 0 0 0 0 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 0 0 0 0 0 0 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 0 0 0 0 0 0 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 0 0 0 0 0 0 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 0 0 0 0 0 0 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 0 0 0 0 0 0 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 0 0 0 0 0 0 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 0 0 0 0 0 0 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 0 0 0 0 0 0 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 0 0 0 0 0 0 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 0 0 0 0 0 0 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 0 0 0 0 0 0 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 0 0 0 0 0 0 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 0 0 0 0 0 0 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 0 0 0 0 0 0 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 0 0 0 0 0 0 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 0 0 0 0 0 0 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 0 0 0 0 0 0 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 0 0 0 0 0 0 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 0 0 0 0 0 0 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 255 255 253 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 11 83 109 97 108 108 32 70 111 110 116 115 0 1 8 1 1
 
 </Property>
-	<Item Name="Examples" Type="Folder">
-		<Item Name="Load Bitfile.vi" Type="VI" URL="../../../../examples/LabVIEW Hacker/Adept/Load Bitfile.vi"/>
-		<Item Name="Read JTAG Scan Chain IDCODEs.vi" Type="VI" URL="../../../../examples/LabVIEW Hacker/Adept/Read JTAG Scan Chain IDCODEs.vi"/>
-	</Item>
+	<Item Name="Examples" Type="Folder"/>
 	<Item Name="Private" Type="Folder">
 		<Item Name="DEPP" Type="Folder">
-			<Item Name="DEPP.lvlib" Type="Library" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Private/DEPP/DEPP.lvlib"/>
+			<Item Name="DEPP.lvlib" Type="Library" URL="../Private/DEPP/DEPP.lvlib"/>
 		</Item>
 		<Item Name="DJTG" Type="Folder">
-			<Item Name="DJTG.lvlib" Type="Library" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Private/DJTG/DJTG.lvlib"/>
+			<Item Name="DJTG.lvlib" Type="Library" URL="../Private/DJTG/DJTG.lvlib"/>
 		</Item>
 		<Item Name="DMGR" Type="Folder">
-			<Item Name="DMGR.lvlib" Type="Library" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Private/DMGR/DMGR.lvlib"/>
+			<Item Name="DMGR.lvlib" Type="Library" URL="../Private/DMGR/DMGR.lvlib"/>
 		</Item>
 		<Item Name="DPCUTIL" Type="Folder">
-			<Item Name="DPCUTIL.lvlib" Type="Library" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Private/DPCUTIL/DPCUTIL.lvlib"/>
+			<Item Name="DPCUTIL.lvlib" Type="Library" URL="../Private/DPCUTIL/DPCUTIL.lvlib"/>
 		</Item>
 		<Item Name="DSTM" Type="Folder">
-			<Item Name="DSTM.lvlib" Type="Library" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Private/DSTM/DSTM.lvlib"/>
+			<Item Name="DSTM.lvlib" Type="Library" URL="../Private/DSTM/DSTM.lvlib"/>
+		</Item>
+		<Item Name="Project" Type="Folder">
+			<Item Name="LabVIEW Hacker" Type="Folder">
+				<Item Name="Adept" Type="Folder"/>
+			</Item>
 		</Item>
 		<Item Name="Resources" Type="Folder"/>
 		<Item Name="Type Defs" Type="Folder">
-			<Item Name="Adept Device Ctl.xctl" Type="XControl" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Private/Type Defs/Adept Device Ctl.xctl"/>
-			<Item Name="Device Config.ctl" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Private/Type Defs/Device Config.ctl"/>
-			<Item Name="DVC.ctl" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Private/Type Defs/DVC.ctl"/>
-			<Item Name="Status.ctl" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Private/Type Defs/Status.ctl"/>
+			<Item Name="Adept Device Ctl.xctl" Type="XControl" URL="../Private/Type Defs/Adept Device Ctl.xctl"/>
+			<Item Name="Device Config.ctl" Type="VI" URL="../Private/Type Defs/Device Config.ctl"/>
+			<Item Name="DVC.ctl" Type="VI" URL="../Private/Type Defs/DVC.ctl"/>
+			<Item Name="Status.ctl" Type="VI" URL="../Private/Type Defs/Status.ctl"/>
 		</Item>
 		<Item Name="Utilities" Type="Folder">
-			<Item Name="DEPP Smart Enable.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Private/Utilities/DEPP Smart Enable.vi"/>
+			<Item Name="DEPP Smart Enable.vi" Type="VI" URL="../Private/Utilities/DEPP Smart Enable.vi"/>
 		</Item>
 	</Item>
 	<Item Name="Public" Type="Folder">
 		<Item Name="Utilities" Type="Folder">
-			<Item Name="Find Devices.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Public/Utilities/Find Devices.vi"/>
-			<Item Name="Flash FPGA.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Public/Flash FPGA.vi"/>
-			<Item Name="Get JTAG Scan Chain IDCODEs.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Public/Utilities/Get JTAG Scan Chain IDCODEs.vi"/>
+			<Item Name="Find Devices.vi" Type="VI" URL="../Public/Utilities/Find Devices.vi"/>
+			<Item Name="Flash FPGA.vi" Type="VI" URL="../Public/Flash FPGA.vi"/>
+			<Item Name="Get JTAG Scan Chain IDCODEs.vi" Type="VI" URL="../Public/Utilities/Get JTAG Scan Chain IDCODEs.vi"/>
 		</Item>
-		<Item Name="Close.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Public/Close.vi"/>
-		<Item Name="Open.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Public/Open.vi"/>
-		<Item Name="Read 1 Register.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Public/Read 1 Register.vi"/>
-		<Item Name="Read N Registers.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Public/Read N Registers.vi"/>
-		<Item Name="Read.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Public/Read.vi"/>
-		<Item Name="Stream From Register.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Public/Stream From Register.vi"/>
-		<Item Name="Stream To Register.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Public/Stream To Register.vi"/>
-		<Item Name="Write 1 Register.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Public/Write 1 Register.vi"/>
-		<Item Name="Write N Registers.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Public/Write N Registers.vi"/>
-		<Item Name="Write.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Public/Write.vi"/>
+		<Item Name="Close.vi" Type="VI" URL="../Public/Close.vi"/>
+		<Item Name="Open.vi" Type="VI" URL="../Public/Open.vi"/>
+		<Item Name="Read 1 Register.vi" Type="VI" URL="../Public/Read 1 Register.vi"/>
+		<Item Name="Read N Registers.vi" Type="VI" URL="../Public/Read N Registers.vi"/>
+		<Item Name="Read.vi" Type="VI" URL="../Public/Read.vi"/>
+		<Item Name="Stream From Register.vi" Type="VI" URL="../Public/Stream From Register.vi"/>
+		<Item Name="Stream To Register.vi" Type="VI" URL="../Public/Stream To Register.vi"/>
+		<Item Name="Write 1 Register.vi" Type="VI" URL="../Public/Write 1 Register.vi"/>
+		<Item Name="Write N Registers.vi" Type="VI" URL="../Public/Write N Registers.vi"/>
+		<Item Name="Write.vi" Type="VI" URL="../Public/Write.vi"/>
 	</Item>
 	<Item Name="Test Apps" Type="Folder">
 		<Item Name="DEPP" Type="Folder">
-			<Item Name="DEPP Set Test.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Test Apps/DEPP/DEPP Set Test.vi"/>
-			<Item Name="DEPP Stream.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Test Apps/DEPP/DEPP Stream.vi"/>
-			<Item Name="DEPP Write Read.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Test Apps/DEPP/DEPP Write Read.vi"/>
-			<Item Name="Enable Disable.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Test Apps/DEPP/Enable Disable.vi"/>
+			<Item Name="DEPP Set Test.vi" Type="VI" URL="../Test Apps/DEPP/DEPP Set Test.vi"/>
+			<Item Name="DEPP Stream.vi" Type="VI" URL="../Test Apps/DEPP/DEPP Stream.vi"/>
+			<Item Name="DEPP Write Read.vi" Type="VI" URL="../Test Apps/DEPP/DEPP Write Read.vi"/>
+			<Item Name="Enable Disable.vi" Type="VI" URL="../Test Apps/DEPP/Enable Disable.vi"/>
 		</Item>
 		<Item Name="DJTG" Type="Folder">
-			<Item Name="Get JTAG ID Code.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Test Apps/DJTG/Get JTAG ID Code.vi"/>
-			<Item Name="Get Port Properties.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Test Apps/DJTG/Get Port Properties.vi"/>
-			<Item Name="Get Set Speed.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Test Apps/DJTG/Get Set Speed.vi"/>
-			<Item Name="JTAG Test App.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Test Apps/DJTG/JTAG Test App.vi"/>
-			<Item Name="Reset Device.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Test Apps/DJTG/Reset Device.vi"/>
+			<Item Name="Get JTAG ID Code.vi" Type="VI" URL="../Test Apps/DJTG/Get JTAG ID Code.vi"/>
+			<Item Name="Get Port Properties.vi" Type="VI" URL="../Test Apps/DJTG/Get Port Properties.vi"/>
+			<Item Name="Get Set Speed.vi" Type="VI" URL="../Test Apps/DJTG/Get Set Speed.vi"/>
+			<Item Name="JTAG Test App.vi" Type="VI" URL="../Test Apps/DJTG/JTAG Test App.vi"/>
+			<Item Name="Reset Device.vi" Type="VI" URL="../Test Apps/DJTG/Reset Device.vi"/>
 		</Item>
 		<Item Name="DMGR" Type="Folder">
-			<Item Name="Get Dev Info.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Test Apps/DMGR/Get Dev Info.vi"/>
-			<Item Name="Open Close Device.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Test Apps/DMGR/Open Close Device.vi"/>
+			<Item Name="Get Dev Info.vi" Type="VI" URL="../Test Apps/DMGR/Get Dev Info.vi"/>
+			<Item Name="Open Close Device.vi" Type="VI" URL="../Test Apps/DMGR/Open Close Device.vi"/>
 		</Item>
 		<Item Name="DPCUTIL" Type="Folder">
-			<Item Name="Put Get.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Test Apps/DPCUTIL/Put Get.vi"/>
+			<Item Name="Put Get.vi" Type="VI" URL="../Test Apps/DPCUTIL/Put Get.vi"/>
 		</Item>
 		<Item Name="DSTM" Type="Folder">
-			<Item Name="Open Close.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Test Apps/DSTM/Open Close.vi"/>
+			<Item Name="Open Close.vi" Type="VI" URL="../Test Apps/DSTM/Open Close.vi"/>
 		</Item>
-		<Item Name="Demo.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Test Apps/Demo.vi"/>
+		<Item Name="Demo.vi" Type="VI" URL="../Test Apps/Demo.vi"/>
 	</Item>
 </Library>
