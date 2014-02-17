@@ -22,6 +22,11 @@
 		<Item Name="DSTM" Type="Folder">
 			<Item Name="DSTM.lvlib" Type="Library" URL="../Private/DSTM/DSTM.lvlib"/>
 		</Item>
+		<Item Name="Installer" Type="Folder">
+			<Item Name="Check Adept Runtime.vi" Type="VI" URL="../Private/Installer/Check Adept Runtime.vi"/>
+			<Item Name="Check VC++ Redist.vi" Type="VI" URL="../Private/Installer/Check VC++ Redist.vi"/>
+			<Item Name="Pre-Install Custom Action.vi" Type="VI" URL="../Private/Installer/Pre-Install Custom Action.vi"/>
+		</Item>
 		<Item Name="Project" Type="Folder">
 			<Item Name="LabVIEW Hacker" Type="Folder">
 				<Item Name="Adept" Type="Folder"/>
