@@ -1,3 +1,0 @@
-#### Starting Mass Compile: Wed, Nov 27, 2013 2:11:43 PM
-  Directory: "C:\github\labviewhacker\LVH-Adept"
-#### Finished Mass Compile: Wed, Nov 27, 2013 2:11:43 PM

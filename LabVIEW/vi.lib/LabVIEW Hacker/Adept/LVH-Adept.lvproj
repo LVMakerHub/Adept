@@ -15,23 +15,12 @@
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
 				<Item Name="Close Registry Key.vi" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Close Registry Key.vi"/>
-				<Item Name="depp.dll" Type="Document" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Private/Resources/depp.dll"/>
-				<Item Name="djtg.dll" Type="Document" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Private/Resources/djtg.dll"/>
-				<Item Name="dmgr.dll" Type="Document" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Private/Resources/dmgr.dll"/>
-				<Item Name="dpcutil.dll" Type="Document" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Private/Resources/dpcutil.dll"/>
-				<Item Name="dstm.dll" Type="Document" URL="/&lt;vilib&gt;/LabVIEW Hacker/Adept/Private/Resources/dstm.dll"/>
 				<Item Name="Enum Registry Keys.vi" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Enum Registry Keys.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
-				<Item Name="Escape Characters for HTTP.vi" Type="VI" URL="/&lt;vilib&gt;/printing/PathToURL.llb/Escape Characters for HTTP.vi"/>
 				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="Open Registry Key.vi" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Open Registry Key.vi"/>
-				<Item Name="Open URL in Default Browser (path).vi" Type="VI" URL="/&lt;vilib&gt;/Platform/browser.llb/Open URL in Default Browser (path).vi"/>
-				<Item Name="Open URL in Default Browser (string).vi" Type="VI" URL="/&lt;vilib&gt;/Platform/browser.llb/Open URL in Default Browser (string).vi"/>
-				<Item Name="Open URL in Default Browser core.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/browser.llb/Open URL in Default Browser core.vi"/>
-				<Item Name="Open URL in Default Browser.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/browser.llb/Open URL in Default Browser.vi"/>
-				<Item Name="Path to URL.vi" Type="VI" URL="/&lt;vilib&gt;/printing/PathToURL.llb/Path to URL.vi"/>
 				<Item Name="Query Registry Key Info.vi" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Query Registry Key Info.vi"/>
 				<Item Name="Registry Handle Master.vi" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Registry Handle Master.vi"/>
 				<Item Name="Registry refnum.ctl" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Registry refnum.ctl"/>
@@ -50,6 +39,11 @@
 			<Item Name="Advapi32.dll" Type="Document" URL="Advapi32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="depp.dll" Type="Document" URL="../Private/Resources/depp.dll"/>
+			<Item Name="djtg.dll" Type="Document" URL="../Private/Resources/djtg.dll"/>
+			<Item Name="dmgr.dll" Type="Document" URL="../Private/Resources/dmgr.dll"/>
+			<Item Name="dpcutil.dll" Type="Document" URL="../Private/Resources/dpcutil.dll"/>
+			<Item Name="dstm.dll" Type="Document" URL="../Private/Resources/dstm.dll"/>
 			<Item Name="Find Devices.vi" Type="VI" URL="../Public/Find Devices.vi"/>
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>

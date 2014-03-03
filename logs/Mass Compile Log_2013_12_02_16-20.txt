@@ -1,4 +1,0 @@
-#### Starting Mass Compile: Mon, Dec 02, 2013 4:20:40 PM
-  Directory: "C:\github\labviewhacker\LVH-Adept"
-  ### Bad VI:    "test dll call.vi"	Path="C:\Users\lvadmin\Desktop\test dll call.vi"
-#### Finished Mass Compile: Mon, Dec 02, 2013 4:20:40 PM
