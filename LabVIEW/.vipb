@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.5" Created_Date="2014-02-13 11:39:09" Modified_Date="2014-02-18 10:00:34" Creator="samkristoff" Comments="" ID="68331ac78227da7197b63d6b5b317bcf">
+<VI_Package_Builder_Settings Version="0.5" Created_Date="2014-02-13 11:39:09" Modified_Date="2014-03-04 12:58:34" Creator="samkristoff" Comments="" ID="beca70f8c656caa4e1025c27f9b79295">
   <Library_General_Settings>
     <Package_File_Name>lvh_adept</Package_File_Name>
-    <Library_Version>1.0.0.12</Library_Version>
+    <Library_Version>1.0.0.28</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\LVH-Builds\LVH-Adept\Installers</Library_Output_Folder>
@@ -19,8 +19,8 @@
     <Custom_Action_VIs>
       <Pre-Build_VI/>
       <Post-Build_VI/>
-      <Pre-Install_VI>vi.lib\LabVIEW Hacker\Adept\Private\Installer\Pre-Install Custom Action.vi</Pre-Install_VI>
-      <Post-Install_VI/>
+      <Pre-Install_VI/>
+      <Post-Install_VI>vi.lib\LabVIEW Hacker\Adept\Private\Installer\Check Dependencies.vi</Post-Install_VI>
       <Pre-Uninstall_VI/>
       <Post-Uninstall_VI/>
     </Custom_Action_VIs>
@@ -30,7 +30,7 @@
       <Description>LabVIEW API for interfacing with Digilent FPGA boards.</Description>
       <Copyright/>
       <Packager>Sam Kristoff</Packager>
-      <URL>www.labviewhacker.com</URL>
+      <URL>www.labviewhacker.com/adept</URL>
       <Release_Notes>LVH Adept Beta</Release_Notes>
     </Description>
     <Destinations>
