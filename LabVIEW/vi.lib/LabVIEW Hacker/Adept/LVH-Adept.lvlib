@@ -6,6 +6,13 @@
 
 </Property>
 	<Item Name="Examples" Type="Folder"/>
+	<Item Name="Help" Type="Folder">
+		<Item Name="Forums.vi" Type="VI" URL="../../../../help/LabVIEW Hacker/Adept/Forums.vi"/>
+		<Item Name="Getting Started.vi" Type="VI" URL="../../../../help/LabVIEW Hacker/Adept/Getting Started.vi"/>
+		<Item Name="Open Source.vi" Type="VI" URL="../../../../help/LabVIEW Hacker/Adept/Open Source.vi"/>
+		<Item Name="Product Page.vi" Type="VI" URL="../../../../help/LabVIEW Hacker/Adept/Product Page.vi"/>
+		<Item Name="Tutorials.vi" Type="VI" URL="../../../../help/LabVIEW Hacker/Adept/Tutorials.vi"/>
+	</Item>
 	<Item Name="Private" Type="Folder">
 		<Item Name="DEPP" Type="Folder">
 			<Item Name="DEPP.lvlib" Type="Library" URL="../Private/DEPP/DEPP.lvlib"/>
