@@ -6,13 +6,6 @@
 
 </Property>
 	<Item Name="Examples" Type="Folder"/>
-	<Item Name="Help" Type="Folder">
-		<Item Name="Forums.vi" Type="VI" URL="../../../../help/MakerHub/Adept/Forums.vi"/>
-		<Item Name="Getting Started.vi" Type="VI" URL="../../../../help/MakerHub/Adept/Getting Started.vi"/>
-		<Item Name="Open Source.vi" Type="VI" URL="../../../../help/MakerHub/Adept/Open Source.vi"/>
-		<Item Name="Product Page.vi" Type="VI" URL="../../../../help/MakerHub/Adept/Product Page.vi"/>
-		<Item Name="Tutorials.vi" Type="VI" URL="../../../../help/MakerHub/Adept/Tutorials.vi"/>
-	</Item>
 	<Item Name="Private" Type="Folder">
 		<Item Name="DEPP" Type="Folder">
 			<Item Name="DEPP.lvlib" Type="Library" URL="../Private/DEPP/DEPP.lvlib"/>
@@ -40,12 +33,12 @@
 			</Item>
 		</Item>
 		<Item Name="Resources" Type="Folder">
-			<Item Name="depp.dll" Type="Document" URL="../Private/Resources/depp.dll"/>
-			<Item Name="djtg.dll" Type="Document" URL="../Private/Resources/djtg.dll"/>
-			<Item Name="dmgr.dll" Type="Document" URL="../Private/Resources/dmgr.dll"/>
-			<Item Name="dpcutil.dll" Type="Document" URL="../Private/Resources/dpcutil.dll"/>
-			<Item Name="dstm.dll" Type="Document" URL="../Private/Resources/dstm.dll"/>
-			<Item Name="LVH-Adept Helper.dll" Type="Document" URL="../Private/Resources/LVH-Adept Helper.dll"/>
+			<Item Name="depp.dll" Type="Document" URL="/&lt;vilib&gt;/MakerHub/Adept/Private/Resources/depp.dll"/>
+			<Item Name="djtg.dll" Type="Document" URL="/&lt;vilib&gt;/MakerHub/Adept/Private/Resources/djtg.dll"/>
+			<Item Name="dmgr.dll" Type="Document" URL="/&lt;vilib&gt;/MakerHub/Adept/Private/Resources/dmgr.dll"/>
+			<Item Name="dpcutil.dll" Type="Document" URL="/&lt;vilib&gt;/MakerHub/Adept/Private/Resources/dpcutil.dll"/>
+			<Item Name="dstm.dll" Type="Document" URL="/&lt;vilib&gt;/MakerHub/Adept/Private/Resources/dstm.dll"/>
+			<Item Name="LVH-Adept Helper.dll" Type="Document" URL="/&lt;vilib&gt;/MakerHub/Adept/Private/Resources/LVH-Adept Helper.dll"/>
 		</Item>
 		<Item Name="Type Defs" Type="Folder">
 			<Item Name="Adept Device Ctl.xctl" Type="XControl" URL="../Private/Type Defs/Adept Device Ctl.xctl"/>
@@ -73,31 +66,5 @@
 		<Item Name="Write 1 Register.vi" Type="VI" URL="../Public/Write 1 Register.vi"/>
 		<Item Name="Write N Registers.vi" Type="VI" URL="../Public/Write N Registers.vi"/>
 		<Item Name="Write.vi" Type="VI" URL="../Public/Write.vi"/>
-	</Item>
-	<Item Name="Test Apps" Type="Folder">
-		<Item Name="DEPP" Type="Folder">
-			<Item Name="DEPP Set Test.vi" Type="VI" URL="../Test Apps/DEPP/DEPP Set Test.vi"/>
-			<Item Name="DEPP Stream.vi" Type="VI" URL="../Test Apps/DEPP/DEPP Stream.vi"/>
-			<Item Name="DEPP Write Read.vi" Type="VI" URL="../Test Apps/DEPP/DEPP Write Read.vi"/>
-			<Item Name="Enable Disable.vi" Type="VI" URL="../Test Apps/DEPP/Enable Disable.vi"/>
-		</Item>
-		<Item Name="DJTG" Type="Folder">
-			<Item Name="Get JTAG ID Code.vi" Type="VI" URL="../Test Apps/DJTG/Get JTAG ID Code.vi"/>
-			<Item Name="Get Port Properties.vi" Type="VI" URL="../Test Apps/DJTG/Get Port Properties.vi"/>
-			<Item Name="Get Set Speed.vi" Type="VI" URL="../Test Apps/DJTG/Get Set Speed.vi"/>
-			<Item Name="JTAG Test App.vi" Type="VI" URL="../Test Apps/DJTG/JTAG Test App.vi"/>
-			<Item Name="Reset Device.vi" Type="VI" URL="../Test Apps/DJTG/Reset Device.vi"/>
-		</Item>
-		<Item Name="DMGR" Type="Folder">
-			<Item Name="Get Dev Info.vi" Type="VI" URL="../Test Apps/DMGR/Get Dev Info.vi"/>
-			<Item Name="Open Close Device.vi" Type="VI" URL="../Test Apps/DMGR/Open Close Device.vi"/>
-		</Item>
-		<Item Name="DPCUTIL" Type="Folder">
-			<Item Name="Put Get.vi" Type="VI" URL="../Test Apps/DPCUTIL/Put Get.vi"/>
-		</Item>
-		<Item Name="DSTM" Type="Folder">
-			<Item Name="Open Close.vi" Type="VI" URL="../Test Apps/DSTM/Open Close.vi"/>
-		</Item>
-		<Item Name="Demo.vi" Type="VI" URL="../Test Apps/Demo.vi"/>
 	</Item>
 </Library>

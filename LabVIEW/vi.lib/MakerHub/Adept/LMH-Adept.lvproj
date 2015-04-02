@@ -10,6 +10,37 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Help" Type="Folder">
+			<Item Name="Forums.vi" Type="VI" URL="../../../../help/MakerHub/Adept/Forums.vi"/>
+			<Item Name="Getting Started.vi" Type="VI" URL="../../../../help/MakerHub/Adept/Getting Started.vi"/>
+			<Item Name="GitHub.vi" Type="VI" URL="../../../../help/MakerHub/Adept/GitHub.vi"/>
+		</Item>
+		<Item Name="Test Apps" Type="Folder">
+			<Item Name="DEPP" Type="Folder">
+				<Item Name="DEPP Set Test.vi" Type="VI" URL="../Test Apps/DEPP/DEPP Set Test.vi"/>
+				<Item Name="DEPP Stream.vi" Type="VI" URL="../Test Apps/DEPP/DEPP Stream.vi"/>
+				<Item Name="DEPP Write Read.vi" Type="VI" URL="../Test Apps/DEPP/DEPP Write Read.vi"/>
+				<Item Name="Enable Disable.vi" Type="VI" URL="../Test Apps/DEPP/Enable Disable.vi"/>
+			</Item>
+			<Item Name="DJTG" Type="Folder">
+				<Item Name="Get JTAG ID Code.vi" Type="VI" URL="../Test Apps/DJTG/Get JTAG ID Code.vi"/>
+				<Item Name="Get Port Properties.vi" Type="VI" URL="../Test Apps/DJTG/Get Port Properties.vi"/>
+				<Item Name="Get Set Speed.vi" Type="VI" URL="../Test Apps/DJTG/Get Set Speed.vi"/>
+				<Item Name="JTAG Test App.vi" Type="VI" URL="../Test Apps/DJTG/JTAG Test App.vi"/>
+				<Item Name="Reset Device.vi" Type="VI" URL="../Test Apps/DJTG/Reset Device.vi"/>
+			</Item>
+			<Item Name="DMGR" Type="Folder">
+				<Item Name="Get Dev Info.vi" Type="VI" URL="../Test Apps/DMGR/Get Dev Info.vi"/>
+				<Item Name="Open Close Device.vi" Type="VI" URL="../Test Apps/DMGR/Open Close Device.vi"/>
+			</Item>
+			<Item Name="DPCUTIL" Type="Folder">
+				<Item Name="Put Get.vi" Type="VI" URL="../Test Apps/DPCUTIL/Put Get.vi"/>
+			</Item>
+			<Item Name="DSTM" Type="Folder">
+				<Item Name="Open Close.vi" Type="VI" URL="../Test Apps/DSTM/Open Close.vi"/>
+			</Item>
+			<Item Name="Demo.vi" Type="VI" URL="../Test Apps/Demo.vi"/>
+		</Item>
 		<Item Name="Check Dependencies.vi" Type="VI" URL="../../../../project/MakerHub/Adept/Check Dependencies.vi"/>
 		<Item Name="LVH-Adept.lvlib" Type="Library" URL="../LVH-Adept.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -102,6 +133,7 @@
 			<Item Name="djtg.dll" Type="Document" URL="djtg.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="dmgr.dll" Type="Document" URL="../Private/Resources/dmgr.dll"/>
 			<Item Name="dpcutil.dll" Type="Document" URL="dpcutil.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -112,6 +144,7 @@
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="LVH-Adept Helper.dll" Type="Document" URL="../Private/Resources/LVH-Adept Helper.dll"/>
 			<Item Name="lvimptsl.dll" Type="Document" URL="../../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2011/resource/lvimptsl.dll"/>
 			<Item Name="lvinput.dll" Type="Document" URL="../../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2011/resource/lvinput.dll"/>
 		</Item>
