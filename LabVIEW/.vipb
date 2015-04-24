@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-02-13 11:39:09" Modified_Date="2015-04-03 15:38:37" Creator="samkristoff" Comments="" ID="a64ffd5c643de24fe7bcccc08fa34adb">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-02-13 11:39:09" Modified_Date="2015-04-03 15:42:47" Creator="samkristoff" Comments="" ID="bb55b24ae9a3b43fbf185b603931d83a">
   <Library_General_Settings>
     <Package_File_Name>lvh_adept</Package_File_Name>
-    <Library_Version>2.0.0.49</Library_Version>
+    <Library_Version>2.0.0.50</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\Builds\Adept</Library_Output_Folder>
@@ -114,6 +114,9 @@
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
+      <Exclusions>
+        <Path>vi.lib/MakerHub/Adept/Private/Resources/LVH-Adept Helper</Path>
+      </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>..\EULA.txt</License_Agreement_Filepath>
     <Licensing_and_Activation>
